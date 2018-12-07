@@ -1,5 +1,6 @@
 
+x=4
 if x>0:
     print("sdasdasd")
-else x<9:
+elif x<9:
     print("saadasds")
