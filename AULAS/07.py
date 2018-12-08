@@ -1,7 +1,7 @@
 #Operadores logicos
 
-n1=int(input('digite n1 '))
-n2=int(input('digite n2'))
+n1=int(input('digite n1 = '))
+n2=int(input('digite n2 = '))
 
 s = n1+n2
 m = n1*n2
